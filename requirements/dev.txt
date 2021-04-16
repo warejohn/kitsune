@@ -6,9 +6,9 @@ aspy.yaml==0.2.1 \
 cached-property==1.2.0 \
     --hash=sha256:e3081a8182d3d4b7283eeade76c382bcfd4dfd644ca800598229c2ef798abb53 \
     --hash=sha256:c3a5e7f41fe99991ab1f8df294f3d8180a56b46fedec94ebd54def89d0ec09c4
-django-debug-toolbar==1.4 \
-    --hash=sha256:0cbae8760f4851d480a70b72ace5b075f8191ecf899bc97427715e50fb0e90b9 \
-    --hash=sha256:852a37b80df9597048591ebc87d0ce85a4edceaef015dc5360ad89cc5960c27b
+django-debug-toolbar==1.11.1 \
+    --hash=sha256:2d240517dac3b02b7d78c9109ee88546f99171a2ec2a3efa70450771cb55735e \
+    --hash=sha256:10f5ef59c97fad34b803b02e5850b6422082e2e44544c2ec03feb4eeee0f9158
 django-sslserver==0.16 \
     --hash=sha256:ad62272de0b214bababcc33977b0964254bc06c3dc1ce68dd3ee8535c39d2028
 docutils==0.12 \
